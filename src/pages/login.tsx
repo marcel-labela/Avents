@@ -4,7 +4,8 @@ import { Template } from 'common/layout';
 
 const Login: React.FC = () => (
   <Template>
-    <h2>Dit is een template</h2>
+    <h1>Dit is een template</h1>
+    <p>Login page</p>
   </Template>
 );
 
